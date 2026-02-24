@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Contract Management",
+  "description": "Upload and analyze lease contracts to generate journals.",
+  "requestFramePermissions": []
+}
